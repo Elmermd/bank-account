@@ -1,0 +1,1 @@
+Este código define una clase básica que representa una cuenta bancaria. La clase incluye diversos métodos que permiten gestionar la cuenta de una persona, facilitando la realización de depósitos e ingresos y retiros.
